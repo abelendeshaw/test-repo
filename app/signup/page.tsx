@@ -56,11 +56,7 @@ export default function SignUpPage() {
                           <div className="w-6 h-6 bg-purple-500 rounded-full"></div>
                         </div>
                       </div>
-                      <div className="text-center">
-                        <div className="text-lg font-bold text-gray-800 mb-1">
-                          $2,842
-                        </div>
-                      </div>
+                      <div className="text-center"></div>
                     </div>
 
                     {/* Bottom section */}
