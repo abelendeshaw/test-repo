@@ -1,0 +1,6 @@
+serve: npm run build && npm start
+port: 3000
+browser: chromium
+snapshots:
+  - name: signup
+    url: /signup
